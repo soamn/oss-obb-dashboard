@@ -1,6 +1,6 @@
 # Openbb-dashboard using Flask/React
 
-git clone https://github.com/soamn/oss-obb-dashboard.git
+`git clone https://github.com/soamn/oss-obb-dashboard.git `
 
 ## steps to start the flask backend
 
