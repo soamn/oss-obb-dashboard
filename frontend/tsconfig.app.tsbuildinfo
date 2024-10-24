@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/movingaverages.tsx","./src/components/stockchart.tsx","./src/components/stockinfo.tsx","./src/components/stockinput.tsx","./src/components/volumeinfo.tsx","./src/components/yearlyrange.tsx"],"version":"5.6.3"}
